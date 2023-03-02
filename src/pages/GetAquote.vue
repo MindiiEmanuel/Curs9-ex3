@@ -1,0 +1,3 @@
+<template>
+GetAquote
+</template>
